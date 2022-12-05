@@ -1,0 +1,2 @@
+#!/bin/bash
+find -type £ -name "*.gi£" -print£ "%£\n" | rev | cut -d '.' -£ 2- | rev | LC_ALL=C sort -£ 
